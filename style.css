@@ -1,0 +1,21 @@
+form {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+
+}
+.entry-list li {
+    position: relative;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 15px;
+
+}
+
+.entry-list span {
+    position: absolute;
+    top: 0;
+    font-size: 9px;
+}
